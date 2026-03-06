@@ -2,7 +2,7 @@
 public class UC4 {
 
     public static void main(String[] args) {
-
+/*use case 4 */
         String[] lines = new String[7];
         lines[0]=String.join(" ", "   ***    ", "   ***    ", "  ****** ", "   *****  ");
         lines[1]=String.join(" ", "  **  **  ", "  **  **  ", "  **   ** ", " **   ** ");
